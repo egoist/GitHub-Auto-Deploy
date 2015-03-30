@@ -1,0 +1,22 @@
+{
+  "name": "GitHub-Auto-Deploy",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/touka0/GitHub-Auto-Deploy.git"
+  },
+  "author": "Kchan Zen <kchanzen@gmail.com> (http://www.kchanzen.com/)",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/touka0/GitHub-Auto-Deploy/issues"
+  },
+  "homepage": "https://github.com/touka0/GitHub-Auto-Deploy",
+  "dependencies": {
+    "express": "^4.12.3"
+  }
+}
