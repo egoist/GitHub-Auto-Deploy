@@ -1,6 +1,6 @@
-git --work-tree=/var/www/snaply.me --git-dir=/var/repo/snaply.git checkout -f
-
 cd /var/www/snaply.me
+
+git pull origin master
 
 npm install
 
