@@ -17,6 +17,6 @@
   },
   "homepage": "https://github.com/touka0/GitHub-Auto-Deploy",
   "dependencies": {
-    "express": "^4.12.3"
+    "github-webhook-handler": "^0.3.4"
   }
 }
